@@ -1,0 +1,13 @@
+[
+  "age_bucket_le",
+  "sex_clean_le",
+  "reporter_type_le",
+  "route_clean_le",
+  "dose_bin_le",
+  "indication_clean_le",
+  "active_ingredient_le",
+  "drug_count",
+  "reaction_count",
+  "serious_outcome",
+  "polypharmacy"
+]
